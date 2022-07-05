@@ -33,6 +33,7 @@ namespace Day13
 
 
             MessageBox.Show(Details);
+            MessageBox.Show("done");
         }
     }
 }
